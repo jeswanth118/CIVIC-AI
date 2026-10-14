@@ -1,0 +1,252 @@
+[
+  {
+    "id": "CIVIC-2026-3842",
+    "title": "Clogged storm sewer causing street flood",
+    "description": "Storm water is overflowing from blocked catch basin onto the pedestrian crossing",
+    "category": "Drainage",
+    "location": "Maple Ave & 8th St",
+    "status": "Submitted",
+    "aiAnalysis": {
+      "category": "Drainage",
+      "summary": "Storm water is overflowing from blocked catch basin onto the pedestrian crossing",
+      "suggested_department": "General Municipal Works",
+      "suggested_priority": "Medium",
+      "priority_reason": "Automated intake review pending.",
+      "recommended_action": "Initial triage by district coordinator.",
+      "possible_safety_risk": "Standard neighborhood safety assessment."
+    },
+    "createdAt": "2026-10-14T07:06:11.990Z",
+    "updatedAt": "2026-10-14T07:06:11.990Z",
+    "isDemo": false,
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Complaint recorded via CIVIC AI citizen portal.",
+        "timestamp": "2026-10-14T07:06:11.990Z",
+        "updatedBy": "Citizen Reporter"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-1042",
+    "title": "Hazardous deep pothole on Main Street & 5th Ave",
+    "description": "A deep pothole (roughly 8 inches deep and 2 feet wide) has opened up in the right lane following heavy rainfall. Multiple vehicles have suffered blown tires and cars are swerving into oncoming traffic to avoid it.",
+    "category": "Road Damage",
+    "location": "Corner of 5th Ave & Main Street, Downtown Sector",
+    "status": "Resolved",
+    "createdAt": "2026-10-12T19:05:33.443Z",
+    "updatedAt": "2026-10-14T07:07:27.679Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Road Damage",
+      "summary": "Severe road pothole causing vehicular damage and high collision risk due to swerving.",
+      "suggested_department": "Department of Public Works & Road Maintenance",
+      "suggested_priority": "Critical",
+      "priority_reason": "Active hazard causing vehicular damage and cross-lane swerving near a major intersection.",
+      "recommended_action": "Deploy emergency asphalt cold-patch crew within 12 hours and place temporary warning bollards.",
+      "possible_safety_risk": "High risk of blown tires, bicycle crashes, and head-on collisions."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Complaint recorded via CIVIC AI citizen portal.",
+        "timestamp": "2026-10-12T19:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      },
+      {
+        "status": "Under Review",
+        "note": "Assigned to Public Works rapid response dispatcher.",
+        "timestamp": "2026-10-13T07:05:33.444Z",
+        "updatedBy": "Dispatcher Martinez"
+      },
+      {
+        "status": "In Progress",
+        "note": "Repair crew #4 dispatched with mobile asphalt patch truck.",
+        "timestamp": "2026-10-13T19:05:33.444Z",
+        "updatedBy": "Supervisor Chen"
+      },
+      {
+        "status": "Resolved",
+        "note": "Pothole filled with high-durability cold-mix asphalt and steam-roller flattened.",
+        "timestamp": "2026-10-14T07:07:27.679Z",
+        "updatedBy": "Municipal Operations Admin"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-2187",
+    "title": "Overflowing community trash bin and loose debris",
+    "description": "The public recycling and waste dumpster near Oakwood Elementary park has been overflowing for 4 days. Strong odors and loose plastic waste are scattering across the playground walkway.",
+    "category": "Waste Management",
+    "location": "Oakwood Community Park entrance, near East Gate",
+    "status": "Under Review",
+    "createdAt": "2026-10-13T11:05:33.444Z",
+    "updatedAt": "2026-10-14T01:05:33.444Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Waste Management",
+      "summary": "Overflowing public waste receptacle causing litter spread and health nuisance next to an elementary playground.",
+      "suggested_department": "Bureau of Sanitation & Waste Management",
+      "suggested_priority": "Medium",
+      "priority_reason": "Sanitation concern located near children recreation area with potential pest attraction.",
+      "recommended_action": "Schedule priority trash truck pickup and evaluate bin sizing for park foot-traffic.",
+      "possible_safety_risk": "Hygiene risk, insect/rodent attraction near school playground."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Complaint filed by neighborhood resident.",
+        "timestamp": "2026-10-13T11:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      },
+      {
+        "status": "Under Review",
+        "note": "Sanitation district supervisor routing to park route team.",
+        "timestamp": "2026-10-14T01:05:33.444Z",
+        "updatedBy": "Admin Sandra K."
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-3391",
+    "title": "High-pressure water main pipe leak flooding sidewalk",
+    "description": "Clean potable water has been gushing from beneath the pedestrian sidewalk outside 240 Pine Street. The water is pooling across 30 meters of walkway and beginning to erode the soil embankment.",
+    "category": "Water Leakage",
+    "location": "240 Pine Street, Westside Residential District",
+    "status": "In Progress",
+    "createdAt": "2026-10-13T15:05:33.444Z",
+    "updatedAt": "2026-10-14T03:05:33.444Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Water Leakage",
+      "summary": "Pressurized water pipe rupture flooding sidewalk and threatening soil stability.",
+      "suggested_department": "Municipal Water and Sewer Authority",
+      "suggested_priority": "High",
+      "priority_reason": "High volume potable water loss and potential sidewalk subsidence.",
+      "recommended_action": "Isolate line valve, shut off local sub-main, and excavate for pipe sleeve repair.",
+      "possible_safety_risk": "Slip-and-fall hazard for pedestrians; potential sinkhole development."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Reported by local resident.",
+        "timestamp": "2026-10-13T15:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      },
+      {
+        "status": "In Progress",
+        "note": "Water Authority field technician arrived; shutoff valve located.",
+        "timestamp": "2026-10-14T03:05:33.444Z",
+        "updatedBy": "Field Tech Rivera"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-4820",
+    "title": "Series of 3 broken streetlights creating blackout zone",
+    "description": "Three consecutive streetlights on Elm Ridge Road (poles #22, #23, and #24) are completely dark at night. The sidewalk is completely unlit, making night walking hazardous for commuters from the bus stop.",
+    "category": "Streetlight",
+    "location": "Elm Ridge Road between Birch & Cedar Lane",
+    "status": "Resolved",
+    "createdAt": "2026-10-11T07:05:33.444Z",
+    "updatedAt": "2026-10-13T23:05:33.444Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Streetlight",
+      "summary": "Consecutive streetlight outage causing severe pedestrian visibility blackout along a transit route.",
+      "suggested_department": "Division of Electrical & Public Lighting",
+      "suggested_priority": "Medium",
+      "priority_reason": "Multiple dark fixtures increase pedestrian danger and crime risk along bus stop walk.",
+      "recommended_action": "Inspect circuit transformer breaker and replace failed LED driver units.",
+      "possible_safety_risk": "Pedestrian trip hazards in darkness, vehicle blind spots at night."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Citizen submission via mobile web.",
+        "timestamp": "2026-10-11T07:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      },
+      {
+        "status": "Under Review",
+        "note": "Electrical team verified pole IDs.",
+        "timestamp": "2026-10-12T07:05:33.444Z",
+        "updatedBy": "Electrical Inspector"
+      },
+      {
+        "status": "In Progress",
+        "note": "Bucket truck replaced blown fuse and LED driver modules on poles #22-24.",
+        "timestamp": "2026-10-13T15:05:33.444Z",
+        "updatedBy": "Crew Lead Johnson"
+      },
+      {
+        "status": "Resolved",
+        "note": "All 3 streetlights fully illuminated and confirmed by night patrol.",
+        "timestamp": "2026-10-13T23:05:33.444Z",
+        "updatedBy": "Supervisor Chen"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-5519",
+    "title": "Storm drain clogged with tree branches and storm silt",
+    "description": "The curbside storm drain basin is choked with fallen tree limbs, wet leaves, and gravel after the storm. Water is backing up into the bike lane and curb ramp.",
+    "category": "Drainage",
+    "location": "South Blvd & 12th St, near Community Center",
+    "status": "Submitted",
+    "createdAt": "2026-10-13T23:05:33.444Z",
+    "updatedAt": "2026-10-13T23:05:33.444Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Drainage",
+      "summary": "Storm drain grate blockage creating street water ponding in the bike corridor.",
+      "suggested_department": "Stormwater & Drainage Division",
+      "suggested_priority": "Medium",
+      "priority_reason": "Impending rain could cause roadway flooding across pedestrian ramp.",
+      "recommended_action": "Dispatch vactor suction truck or manual clearance crew to clear basin grate.",
+      "possible_safety_risk": "Hydroplaning risk for cyclists and blocked wheelchair ramp access."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Initial report submitted.",
+        "timestamp": "2026-10-13T23:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      }
+    ]
+  },
+  {
+    "id": "CIVIC-2026-6743",
+    "title": "Damaged guardrail along pedestrian footbridge",
+    "description": "A section of the steel safety barrier on the pedestrian footbridge over the canal has rusted through and broken away, leaving a 4-foot unguarded opening with a 15-foot drop to the concrete canal below.",
+    "category": "Public Infrastructure",
+    "location": "West Canal Footbridge, Mile Marker 2.4",
+    "status": "In Progress",
+    "createdAt": "2026-10-13T03:05:33.444Z",
+    "updatedAt": "2026-10-14T05:05:33.444Z",
+    "isDemo": true,
+    "aiAnalysis": {
+      "category": "Public Infrastructure",
+      "summary": "Broken bridge guardrail leaving an exposed fall hazard above concrete canal.",
+      "suggested_department": "Department of Bridges & Structural Engineering",
+      "suggested_priority": "Critical",
+      "priority_reason": "Immediate life-safety hazard of falling from height onto concrete.",
+      "recommended_action": "Immediately install high-visibility rigid safety barrier and weld new steel rail section.",
+      "possible_safety_risk": "Critical fall from height risk for children, joggers, and pedestrians."
+    },
+    "statusHistory": [
+      {
+        "status": "Submitted",
+        "note": "Citizen report with photo description.",
+        "timestamp": "2026-10-13T03:05:33.444Z",
+        "updatedBy": "Citizen Reporter"
+      },
+      {
+        "status": "In Progress",
+        "note": "Temporary orange safety hoarding installed; welding crew scheduled.",
+        "timestamp": "2026-10-14T05:05:33.444Z",
+        "updatedBy": "Structural Safety Engineer"
+      }
+    ]
+  }
+]
