@@ -1,0 +1,6 @@
+{
+  "name": "CIVIC AI — Smart Community Problem Solver",
+  "description": "An AI-powered civic complaint management platform that analyzes community issues with Gemini AI, tracks resolution progress, and provides actionable insights for municipal teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
