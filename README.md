@@ -106,27 +106,6 @@ This project represents my practical exploration of AI-assisted software develop
 ### 📜 Certificates
 
 Certificates related to my hackathon participation and achievements are maintained separately from the source code.
-
-If you want to include your certificates in this repository, create a folder with the following structure:
-
-```text
-CIVIC-AI/
-├── certificates/
-│   ├── hackathon-participation.pdf
-│   └── additional-certificate.pdf
-├── data/
-│   └── complaints.json
-├── src/
-├── server.ts
-├── package.json
-├── README.md
-└── ...
-```
-
-Replace the example filenames with the actual certificate filenames.
-
-**Important:** Only describe a certificate as a participation certificate, completion certificate, or award certificate according to what it actually states.
-
 ---
 
 ## 🖥️ Application Pages
